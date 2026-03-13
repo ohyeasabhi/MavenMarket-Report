@@ -1,6 +1,5 @@
 Hello Data Analysts
 End-to-end Power BI analytics solution analyzing retail sales performance, profitability trends, and product KPIs using advanced DAX, data modeling, and interactive dashboards.
-This is a file for a project created by me while doing the course "Microsoft Power BI Desktop for Business Intelligence".
 
 Steps to Run the Report:
 
